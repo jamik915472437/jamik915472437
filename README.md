@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamik915472437
 - 👀 I’m interested in ...кодирование
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...в (тту) 4 курсе 
+- 🌱 I’m currently learning ...в (тту) 4 курсе 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jamik.rasulov5e@gmail.com (915472434)
 
 <!---
